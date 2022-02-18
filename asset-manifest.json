@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Text_Converter/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Text_Converter/static/js/main.0d0f5138.chunk.js",
-    "main.js.map": "/Text_Converter/static/js/main.0d0f5138.chunk.js.map",
-    "runtime~main.js": "/Text_Converter/static/js/runtime~main.5026f09e.js",
-    "runtime~main.js.map": "/Text_Converter/static/js/runtime~main.5026f09e.js.map",
-    "static/js/2.a84fbd71.chunk.js": "/Text_Converter/static/js/2.a84fbd71.chunk.js",
-    "static/js/2.a84fbd71.chunk.js.map": "/Text_Converter/static/js/2.a84fbd71.chunk.js.map",
-    "static/js/3.7fa365a8.chunk.js": "/Text_Converter/static/js/3.7fa365a8.chunk.js",
-    "static/js/3.7fa365a8.chunk.js.map": "/Text_Converter/static/js/3.7fa365a8.chunk.js.map",
-    "index.html": "/Text_Converter/index.html",
-    "precache-manifest.eec15255e768802f91cf30aa23385a89.js": "/Text_Converter/precache-manifest.eec15255e768802f91cf30aa23385a89.js",
-    "service-worker.js": "/Text_Converter/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Text_Converter/static/css/main.d1b05096.chunk.css.map"
+    "main.css": "/Text-Converter/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Text-Converter/static/js/main.0d0f5138.chunk.js",
+    "main.js.map": "/Text-Converter/static/js/main.0d0f5138.chunk.js.map",
+    "runtime~main.js": "/Text-Converter/static/js/runtime~main.7056f429.js",
+    "runtime~main.js.map": "/Text-Converter/static/js/runtime~main.7056f429.js.map",
+    "static/js/2.a84fbd71.chunk.js": "/Text-Converter/static/js/2.a84fbd71.chunk.js",
+    "static/js/2.a84fbd71.chunk.js.map": "/Text-Converter/static/js/2.a84fbd71.chunk.js.map",
+    "static/js/3.7fa365a8.chunk.js": "/Text-Converter/static/js/3.7fa365a8.chunk.js",
+    "static/js/3.7fa365a8.chunk.js.map": "/Text-Converter/static/js/3.7fa365a8.chunk.js.map",
+    "index.html": "/Text-Converter/index.html",
+    "precache-manifest.02fa82f96a059171f127720183326fbb.js": "/Text-Converter/precache-manifest.02fa82f96a059171f127720183326fbb.js",
+    "service-worker.js": "/Text-Converter/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Text-Converter/static/css/main.d1b05096.chunk.css.map"
   }
 }
